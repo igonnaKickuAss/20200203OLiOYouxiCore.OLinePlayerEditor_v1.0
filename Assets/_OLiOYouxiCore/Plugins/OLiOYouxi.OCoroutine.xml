@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OLiOYouxi.OCoroutine</name>
+    </assembly>
+    <members>
+        <member name="T:OLiOYouxi.OCoroutine.OCoroutine">
+            <summary>
+            奥利奥协程
+            </summary>
+        </member>
+        <member name="T:OLiOYouxi.OCoroutine.ScriptableObjectExtensions">
+            <summary>
+            脚本对象拓展
+            </summary>
+        </member>
+        <member name="M:OLiOYouxi.OCoroutine.ScriptableObjectExtensions.StartCoroutine(UnityEngine.ScriptableObject,System.Collections.IEnumerator)">
+            <summary>
+            开启协程
+            </summary>
+            <param name="object">脚本对象</param>
+            <param name="routine">程序</param>
+            <returns>OCoroutine</returns>
+        </member>
+        <member name="M:OLiOYouxi.OCoroutine.ScriptableObjectExtensions.StopCoroutine(UnityEngine.ScriptableObject,OLiOYouxi.OCoroutine.OCoroutine)">
+            <summary>
+            停止协程
+            </summary>
+            <param name="object">脚本对象</param>
+            <param name="coroutine">协程</param>
+        </member>
+        <member name="M:OLiOYouxi.OCoroutine.ScriptableObjectExtensions.StopAllCoroutine(UnityEngine.ScriptableObject)">
+            <summary>
+            停止所有协程
+            </summary>
+            <param name="object">脚本对象</param>
+        </member>
+    </members>
+</doc>

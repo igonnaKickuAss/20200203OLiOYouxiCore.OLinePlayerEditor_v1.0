@@ -1,0 +1,18 @@
+{
+    "name": "OLiOYouxiCore.OLinePlayer",
+    "references": [
+        "OLiOYouxiCore.OAttributes"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "OLiOYouxi.OCoroutine.dll",
+        "OLiOYouxi.OCoroutine.Interfaces.dll",
+        "OLiOYouxi.OSystem.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OLiOYouxi.Editors",
+    "references": [
+        "OLiOYouxi"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "OLiOYouxi.OCoroutine.dll",
+        "OLiOYouxi.OCoroutine.Interfaces.dll",
+        "OLiOYouxi.OSystem.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

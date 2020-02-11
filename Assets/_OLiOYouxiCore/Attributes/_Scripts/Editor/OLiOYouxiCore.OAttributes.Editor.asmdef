@@ -1,0 +1,17 @@
+{
+    "name": "OLiOYouxiCore.OAttributes.Editor",
+    "references": [
+        "OLiOYouxiCore.OAttributes"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor",
+        "Lumin"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OLiOYouxi.OCoroutine.Interfaces</name>
+    </assembly>
+    <members>
+        <member name="T:OLiOYouxi.OCoroutine.Interfaces.IYieldStruct">
+            <summary>
+            返回结构
+            </summary>
+        </member>
+        <member name="M:OLiOYouxi.OCoroutine.Interfaces.IYieldStruct.IsDone(System.Single)">
+            <summary>
+            是否已经把时间消耗完了
+            </summary>
+            <param name="timeConsume">耗时</param>
+            <returns>bool</returns>
+        </member>
+    </members>
+</doc>
